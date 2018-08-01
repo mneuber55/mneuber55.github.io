@@ -1,2 +1,2 @@
 # mneuber55.github.io
-Person web page
+Personal web page
